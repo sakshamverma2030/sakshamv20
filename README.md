@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @sakshamv20
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (https://www.linkedin.com/in/saksham-verma-302271285/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Saksham Verma
 
-<!---
-sakshamv20/sakshamv20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 Passionate about High-Frequency Trading (HFT) and building performance-critical systems.
+
+🎯 Currently in my third year of B.Tech (ELCE) at BVCOE, Pune.
+
+🚀 Exploring:
+- Limit Order Books, Backtesting Frameworks
+- Multithreading & latency profiling
+- Dynamic Programming & runtime optimization
+
+📈 Recent Wins:
+- 🛠 Built 3 specialized HFT systems in C++
+- 🧠 350+ Leetcode problems solved
+- ⭐ 3-star on HackerRank
+
+👨‍💻 Tech Stack:
+- C++, Python, Linux, GitHub
+
+📂 My Projects:
+- 🔄 [Limit Order Book in C++](https://github.com/yourusername/LOB-project)
+- 📊 [Trade Signal Generator](https://github.com/yourusername/trade-signals)
+- 🎉 [Animated Birthday Scene (Web Dev)](https://github.com/yourusername/birthday-scene)
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Email](mailto:512sakshamverma@gmail.com)
