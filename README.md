@@ -1,25 +1,24 @@
-# 👋 Hi, I'm Saksham Verma
+# 👋 Saksham Verma
 
-🔬 Passionate about High-Frequency Trading (HFT) and building performance-critical systems.
-
-🎯 Currently in my third year of B.Tech (ELCE) at BVCOE, Pune.
+🎯 Third-year B.Tech (ELCE) student at BVCOE, Pune  
+🔬 Passionate about High-Frequency Trading (HFT) and building performance-critical systems
 
 🚀 Exploring:
-- Limit Order Books, Backtesting Frameworks
-- Multithreading & latency profiling
-- Dynamic Programming & runtime optimization
+- Limit Order Books, Trade Signal Generators, Market Replay Engines
+- Multithreading, latency profiling, dynamic programming
 
 📈 Recent Wins:
 - 🛠 Built 3 specialized HFT systems in C++
-- 🧠 350+ Leetcode problems solved
+- 🧠 Solved 350+ Leetcode problems
 - ⭐ 3-star on HackerRank
 
 👨‍💻 Tech Stack:
-- C++, Python, Linux, GitHub
+- C++, Python, Linux, Git, GitHub
 
-📂 My Projects:
-- 🔄 [Limit Order Book in C++](https://github.com/yourusername/LOB-project)
-- 📊 [Trade Signal Generator](https://github.com/yourusername/trade-signals)
-- 🎉 [Animated Birthday Scene (Web Dev)](https://github.com/yourusername/birthday-scene)
+📂 Projects:
+- 🔄 [Limit Order Book](https://github.com/yourusername/LOB-project): ultra-low latency matching engine with sub-ms performance
+- 📊 [Trade Signal Generator](https://github.com/yourusername/trade-signals): strategy engine for real-time market signals (in progress)
+- 🎮 [Market Replay Engine](https://github.com/yourusername/market-replay): tick-level simulator for backtesting trading logic (in progress)
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/saksham-verma-302271285/) | [Email](mailto:512sakshamverma@gmail.com)
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/saksham-verma-302271285/) | [Email](mailto:512sakshamverma@gmail.com)
