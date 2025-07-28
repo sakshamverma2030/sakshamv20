@@ -22,4 +22,4 @@
 - 📊 [Trade Signal Generator](https://github.com/yourusername/trade-signals)
 - 🎉 [Animated Birthday Scene (Web Dev)](https://github.com/yourusername/birthday-scene)
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Email](mailto:512sakshamverma@gmail.com)
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/saksham-verma-302271285/) | [Email](mailto:512sakshamverma@gmail.com)
