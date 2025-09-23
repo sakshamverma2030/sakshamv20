@@ -1,7 +1,6 @@
 # 👋 Saksham Verma
 
 🎯 Third-year B.Tech (ELCE) student at BVCOE, Pune  
-🔬 Passionate about High-Frequency Trading (HFT) and building performance-critical systems
 
 🚀 Exploring:
 - Limit Order Books, Trade Signal Generators, Market Replay Engines
