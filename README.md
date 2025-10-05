@@ -2,9 +2,6 @@
 
 🎯 Third-year B.Tech (ELCE) student at BVCOE, Pune  
 
-🚀 Exploring:
-- Limit Order Books, Trade Signal Generators, Market Replay Engines
-- Multithreading, latency profiling, dynamic programming
 
 📈 Recent Wins:
 - 🛠 Built 3 specialized systems in C++
@@ -15,7 +12,7 @@
 - C++, Python, Linux, Git, GitHub
 
 📂 Projects:
-- 🔄 [Limit Order Book](https://github.com/yourusername/LOB-project): ultra-low latency matching engine with sub-ms performance
+- 🔄 [Limit Order Book](https://github.com/sakshamverma2030/Order-Matching-System): ultra-low latency matching engine with sub-ms performance
 - 📊 [Trade Signal Generator](https://github.com/yourusername/trade-signals): strategy engine for real-time market signals (in progress)
 - 🎮 [Market Replay Engine](https://github.com/yourusername/market-replay): tick-level simulator for backtesting trading logic (in progress)
 
