@@ -7,7 +7,7 @@
 - Multithreading, latency profiling, dynamic programming
 
 📈 Recent Wins:
-- 🛠 Built 3 specialized HFT systems in C++
+- 🛠 Built 3 specialized systems in C++
 - 🧠 Solved 350+ Leetcode problems
 - ⭐ 3-star on HackerRank
 
